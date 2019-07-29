@@ -1,0 +1,8 @@
+	Interface will inherit from multiple classes. Means a child can get properties from multiple parent class
+	For interface we have to use "implements" keyword
+	There will not be main method for interface
+	There will not be any body in method.Only method prototype
+	we can declare variables.Variables are by default static
+	variable are will not changed. There will not any static method.
+	Interface are abtracting in nature. 
+	We cant create any object
